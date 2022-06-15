@@ -1,0 +1,15 @@
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\obj\Debug\net6.0\Assignment_Four.csproj.AssemblyReference.cache
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\obj\Debug\net6.0\Assignment_Four.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\obj\Debug\net6.0\Assignment_Four.AssemblyInfoInputs.cache
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\obj\Debug\net6.0\Assignment_Four.AssemblyInfo.cs
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\obj\Debug\net6.0\Assignment_Four.csproj.CoreCompileInputs.cache
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\bin\Debug\net6.0\Assignment_Four.exe
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\bin\Debug\net6.0\Assignment_Four.deps.json
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\bin\Debug\net6.0\Assignment_Four.runtimeconfig.json
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\bin\Debug\net6.0\Assignment_Four.dll
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\bin\Debug\net6.0\Assignment_Four.pdb
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\obj\Debug\net6.0\Assignment_Four.dll
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\obj\Debug\net6.0\refint\Assignment_Four.dll
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\obj\Debug\net6.0\Assignment_Four.pdb
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\obj\Debug\net6.0\Assignment_Four.genruntimeconfig.cache
+C:\Users\liamd\source\repos\Assignment_Four\Assignment_Four\obj\Debug\net6.0\ref\Assignment_Four.dll
